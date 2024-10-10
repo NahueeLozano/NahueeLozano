@@ -24,7 +24,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,css,discord,php,github,html,java,js,linux,mysql,nodejs,react, sprint" />
+    <img src="https://skillicons.dev/icons?i=git,css,discord,php,github,html,java,js,linux,mysql,nodejs,react " />
   </a>
 </p>
 
@@ -47,4 +47,19 @@
 <a href="https://1010nishant.hashnode.dev/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="hashnode" height="50" width="50" /></a>
 <a href="https://discordapp.com/users/957722095381540874" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
   
+</p>
+
+<br>
+
+<p align="center">
+  <a href="https://github.com/NahueeLozano">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=NahueeLozano&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/NahueeLozano">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NahueeLozano&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=NahueeLozano&theme=dark&hide_border=true"/>
 </p>
