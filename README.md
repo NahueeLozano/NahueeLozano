@@ -8,13 +8,9 @@
  [![GitHub followers]()]()
  ![Discord Shield](url)
  
- ## Sobre mi
- 
- - ⭐ Github Star ⭐ 
- - 📲 Mobile developer
- - 🎥 Te enseño a programar apps en [Youtube](https://youtube.com/aristidevs?sub_confirmation=1) (+50k subs)
- - ✏️ Y por escrito en [CursoKotlin](https://cursokotlin.com)
- -
+ <br>
+ <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+
  <br>
 <div id="user-content-toc">
   <ul align="center">
@@ -63,3 +59,10 @@
 <p align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=NahueeLozano&theme=dark&hide_border=true"/>
 </p>
+ &nbsp;That's How Commits move ...
+
+<div align="center">
+  <a href="https://github.com/Adityakanoi2001/">
+  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
