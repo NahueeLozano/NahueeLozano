@@ -1,12 +1,12 @@
  <div align="center">
      <h1 align="center">Hola, soy <a href="">Nahuel Lozano</a> 👋</h1>
  </div>
- <img src="">
+ <img src="Diseño sin título (1).png">
  
  [![Linkedin](https://www.freepnglogos.com/images/linkedin-logo-png-1826.html>)](https://www.linkedin.com/in/nahuel-lozano-1862a7302)
  [![Instagram](https://img.shields.io/twitch/status/aristidevs?style=social)](https://www.instagram.com/lozanonahue?igsh=MnE0cHAyZ2pqOWNi)
- [![GitHub followers](https://img.shields.io/github/followers/arisguimera?style=social)](https://github.com/ArisGuimera)
- ![Discord Shield](https://discordapp.com/api/guilds/807719549075980308/widget.png?style=shield)
+ [![GitHub followers]()]()
+ ![Discord Shield](url)
  
  ## Sobre mi
  
