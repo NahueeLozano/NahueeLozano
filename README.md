@@ -1,25 +1,24 @@
  <div align="center">
      <h1 align="center">Hola, soy <a href="">Nahuel Lozano</a> 👋</h1>
  </div>
- <img src="Diseño sin título (1).png">
+ <img src="">
  
- [![Linkedin](https://www.freepnglogos.com/images/linkedin-logo-png-1826.html>)](https://www.linkedin.com/in/nahuel-lozano-1862a7302)
- [![Instagram](https://img.shields.io/twitch/status/aristidevs?style=social)](https://www.instagram.com/lozanonahue?igsh=MnE0cHAyZ2pqOWNi)
- [![GitHub followers]()]()
- ![Discord Shield](url)
  
  <br>
  <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 ### 🤵 About Me:
-- 😄 I'm Nahuel. I'm 23 years old. I'm currently studying software development
-      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-      <br>
-- 🤔 I use daily ```.java```,``` js```, ```.sql```
+💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 <br>
-- 🌱 I’m currently learning php and pyton
+🎓 &nbsp;I'm currently studying studying software developmen.\
+      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 🤔 &nbsp; I use daily ```.java```,``` js```, ```.sql```
+<br>
+- 🌱 &nbsp; I’m currently learning php and pyton
+ <br>
  <br>
 <div id="user-content-toc">
   <ul align="center">
+   <br>
     <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
   </ul>
 </div>
@@ -65,10 +64,6 @@
 <p align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=NahueeLozano&theme=dark&hide_border=true"/>
 </p>
- &nbsp;That's How Commits move ...
 
-<div align="center">
-  <a href="https://github.com/Adityakanoi2001/">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
+
+
