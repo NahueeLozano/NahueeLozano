@@ -10,6 +10,12 @@
  
  <br>
  <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+### 🤵 About Me:
+- 😄 I'm Nahuel. I'm 23 years old. I'm currently studying software development
+      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 🤔 I use daily ```.java```,``` js```, ```.sql```
+- 🌱 I’m currently learning php and pyton
+
 
  <br>
 <div id="user-content-toc">
