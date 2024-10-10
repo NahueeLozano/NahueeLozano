@@ -13,10 +13,10 @@
 ### 🤵 About Me:
 - 😄 I'm Nahuel. I'm 23 years old. I'm currently studying software development
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+      <br>
 - 🤔 I use daily ```.java```,``` js```, ```.sql```
+<br>
 - 🌱 I’m currently learning php and pyton
-
-
  <br>
 <div id="user-content-toc">
   <ul align="center">
