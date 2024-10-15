@@ -14,7 +14,7 @@
     
 - 🤔 &nbsp; I use daily ```.java```,``` js```, ```.sql```
 <br>
-- 🌱 &nbsp; I’m currently learning php and pyton
+- 🌱 &nbsp; I’m currently learning php and node.js
  <br>
  <br>
 <div id="user-content-toc">
@@ -26,7 +26,7 @@
 <!--tech stack icons-->
 <p align="center">
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,css,discord,php,github,html,java,js,linux,mysql,nodejs,react " />
+    <img src="https://skillicons.dev/icons?i=git,css,discord,php,github,html,java,js,mysql,nodejs" />
   </a>
 </p>
 
